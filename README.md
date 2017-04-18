@@ -24,5 +24,5 @@
 
 ### Links
 - [Creating HTML elements with javascript](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
-- [Adding CSS classes with javascript][https://developer.mozilla.org/en/docs/Web/API/Element/classList]
+- [Adding CSS classes with javascript](https://developer.mozilla.org/en/docs/Web/API/Element/classList)
 - [Timers in javascript](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
