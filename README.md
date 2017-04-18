@@ -5,8 +5,10 @@
 ### OPDRACHT
 - Verwijder de fish en bubble uit de html file
 - Voeg via javascript een vis en een bubble toe
-- `element = document.createElement(tagname)`
-- `document.body.appendChild(element)`
+```
+element = document.createElement(tagname)
+document.body.appendChild(element)
+```
 - Zet de vis op een willekeurige plek in het scherm met een willekeurige kleur
 - Zet de bubble op een willekeurige x positie
 
